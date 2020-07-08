@@ -1,6 +1,6 @@
 {
   "name": "@saas-plat/metaapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "调用平台扩展的系统api接口",
   "main": "lib/api.js",
   "browser": "dist/api.js",
